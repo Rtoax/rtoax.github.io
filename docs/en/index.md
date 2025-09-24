@@ -8,8 +8,8 @@ hide:
 # Rong Tao
 
 <center>
-	<a href="images/logo.drawio.svg">
-		<img src="images/logo.drawio.svg" border=0 width=300>
+	<a href="images/rtoax-logo.png">
+		<img src="images/rtoax-logo.png" border=0 width=300>
 	</a>
 </center>
 
